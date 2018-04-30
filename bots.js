@@ -2,6 +2,17 @@
 Please make sure you put your bot in alphabetical order with the others (a mod will do this for you if you don't)
 */
 var registeredBots = {
+     "Abuse": {
+        "Author": "BradGamez#1374",
+        "Library": "discord.js",
+        "Support Server": "https://discord.gg/ZzhXzzd",
+        "Website": "https://abusecorporation.weebly.com/",
+        "ClientID": "368486558346772480",
+        "Invite": "https://discordapp.com/oauth2/authorize?client_id=368486558346772480&scope=bot&permissions=8"
+        "Description": "Multi purpose fun bot :)"
+    }
+         
+// This would look like this: http://bots.floffah.co.uk/bots/helpbot
     "HelpBot": {
         "Author": "ℱ𝓵𝓸𝒇𝒇𝓪𝓱#0001",
         "Library": "discord.js",
